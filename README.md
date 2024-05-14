@@ -1,11 +1,11 @@
 
 # Faire sa Première application Web - C#/Angular
 
-Bonjour a tous,
+Bonjour à tous,
 
-aujourd'hui nous allons voir tous ensemble comment faire sa Première application Web. On va utiliser les Framework C#.net et Angular cli. Dans ce premiér workshop nous allons voir comment utiliser le language C# pour créer une Api.
+Aujourd'hui nous allons voir tous ensembles comment faire sa Première application Web. On va utiliser les Framework C#.net et Angular cli. Dans ce premier workshop nous allons voir comment utiliser le language C# pour créer une Api.
  
-Le C# et un language de programmation créer par Microsoft. Il permet grace a sa facilité d'utilisation de créer une application rapide, simple et tres maintenable sans difficulte surtout grace a son Framework .net qui simplifie grandement son utilisation. Vous coderer uniquement sur Windows.
+Le C# et un language de programmation créer par Microsoft. Il permet gràce à sa facilité d'utilisation de créer une application rapide, simple et tres maintenable sans difficulte surtout grace a son Framework .net qui simplifie grandement son utilisation. Vous coderer uniquement sur Windows.
 
 # Partie 1 - Configurer le Framework et l'ordinateur
 
@@ -19,9 +19,15 @@ Il vous permetteras de voir et tester vos requetes Api ainsi que de voir vos res
 
 # Partie 3 - Les requetes
 
-Maintenant que vous etes sur Swagger vous pouvez voir devant vous une requetes forecast Weather qui et une requetes de test. Elle et generer automatiquement par votre Api qui est une requetes de test.
+Maintenant que vous etes sur Swagger vous pouvez voir devant vous une requete forecast Weather qui et une requete de test. Elle et generer automatiquement par votre Api qui est une requetes de test.
 
 Vous allez devoir a votre tour créer les requetes suivantes:
+
+    Exercice 0 : Faire une requête
+
+Objectif : Faire une requete API avec un ou plusieurs paramêtres.
+
+Tache : Faire une requete APi qui prend deux entier en paramêtres et renvoie le resultat.
 
     Exercice 1 : Faire une requête GET simple
 
