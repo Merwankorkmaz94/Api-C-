@@ -1,15 +1,15 @@
 
-# Faire sa Première application Web - C#/Angular
+# Faire sa Première application Web - C#/Django/HTML-CSS-JS
 
 Bonjour à tous,
 
-Aujourd'hui nous allons voir tous ensembles comment faire sa Première application Web. On va utiliser les Framework C#.net et Angular cli. Dans ce premier workshop nous allons voir comment utiliser le language C# pour créer une Api.
+Aujourd'hui nous allons voir tous ensembles comment faire sa Première application Web. On va utiliser les Framework C#.net, django python, et enfin du language web classique. Dans ce premier workshop nous allons voir comment utiliser le language C# pour créer une Api.
  
-Le C# et un language de programmation créer par Microsoft. Il permet gràce à sa facilité d'utilisation de créer une application rapide, simple et tres maintenable sans difficulte surtout grace a son Framework .net qui simplifie grandement son utilisation. Vous coderer uniquement sur Windows.
+Le C# et un language de programmation créer par Microsoft. Il permet gràce à sa facilité d'utilisation de créer une application rapide, simple et tres maintenable sans difficulte surtout grace a son Framework .net qui simplifie grandement son utilisation. Vous coderer uniquement sur Windows. Pour les utilisateurs de Visual Studio Code je vous invite a regarder sur ce liens comment faire "https://code.visualstudio.com/docs/languages/dotnet"
 
 # Partie 1 - Configurer le Framework et l'ordinateur
 
-Pour la Première partie nous vous demanderons de créer un nouveaux projet sur l'application Microsoft Visual Studio 2022. Vous créer un projet Web Api avec comme Configuration le Framework .net6. Une fois que c'est fait vous le lancer le projet avec le boutons start vert et Swagger se lancera.
+Pour la Première partie nous vous demanderons de créer un nouveaux projet sur l'application Microsoft Visual Studio 2022 ou sur Visual Studio Code avec l'extansion. Vous créer un projet Web Api avec comme Configuration le Framework .net8. Une fois que c'est fait vous le lancer le projet avec le boutons start vert ou la commande "dotnet run"et Swagger se lancera.
 
 # Partie 2 - Swagger
 
