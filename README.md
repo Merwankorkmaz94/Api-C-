@@ -9,7 +9,7 @@ Le C# et un language de programmation créer par Microsoft. Il permet gràce à 
 
 # Partie 1 - Configurer le Framework et l'ordinateur
 
-Pour la Première partie nous vous demanderons de créer un nouveaux projet sur l'application Microsoft Visual Studio 2022 ou sur Visual Studio Code avec l'extansion. Vous créer un projet Web Api avec comme Configuration le Framework .net8. Une fois que c'est fait vous le lancer le projet avec le boutons start vert ou la commande "dotnet run"et Swagger se lancera.
+Pour la Première partie nous vous demanderons de créer un nouveaux projet sur l'application Microsoft Visual Studio 2022 ou sur Visual Studio Code avec l'extension. Vous créer un projet Web Api avec comme Configuration le Framework .net8. Une fois que c'est fait vous le lancer le projet avec le boutons start vert ou la commande "dotnet run"et Swagger se lancera.
 
 # Partie 2 - Swagger
 
